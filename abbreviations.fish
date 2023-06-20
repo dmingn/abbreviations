@@ -7,3 +7,5 @@ abbr -a -- gcm 'git commit -m'
 abbr -a -- grp 'git restore -p'
 abbr -a -- grps 'git restore -p --staged'
 abbr -a -- amend 'git commit --amend'
+abbr -a -- gti git
+abbr -a -- gal 'gcloud auth login && gcloud auth application-default login'
