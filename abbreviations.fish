@@ -9,3 +9,6 @@ abbr -a -- grps 'git restore -p --staged'
 abbr -a -- amend 'git commit --amend'
 abbr -a -- gti git
 abbr -a -- gal 'gcloud auth login && gcloud auth application-default login'
+abbr -a -- master 'git checkout master && git pull'
+abbr -a -- main 'git checkout main && git pull'
+abbr -a -- develop 'git checkout develop && git pull'
